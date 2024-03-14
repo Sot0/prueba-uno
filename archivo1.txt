@@ -3,3 +3,5 @@ add_shopping_cartasd
 add_shopping_cartasdasd
 add_shopping_cartasdsas
 td-data-table-cell [numeric]="true"
+linea dos
+linea uno
